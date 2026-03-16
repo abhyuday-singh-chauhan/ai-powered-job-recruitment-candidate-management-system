@@ -33,6 +33,9 @@ This project centralizes recruitment activities in Salesforce and supports:
 - Main project narrative: `phase-5-deployment-documentation/project-documentation.md`
 - Deployment support and monitoring: `phase-5-deployment-documentation/monitoring-and-support.md`
 
+## Demo Video
+https://drive.google.com/file/d/1uIMqFFYEs40nKrC-26Zwc5y64GVuehsZ/view?usp=sharing
+
 ## Note
 
 Each milestone folder includes screenshot evidence and a dedicated README summarizing implementation tasks and outcomes.
